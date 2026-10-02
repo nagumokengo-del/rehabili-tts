@@ -1,0 +1,14 @@
+{
+  "name": "multilingual-player",
+  "version": "1.0.0",
+  "description": "多言語自己紹介・数字・カレンダー学習プレイヤー（リハビリ企画合同会社）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "msedge-tts": "^1.4.1"
+  },
+  "author": "リハビリ企画合同会社",
+  "license": "UNLICENSED"
+}
