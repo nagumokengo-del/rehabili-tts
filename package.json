@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "msedge-tts": "^1.4.1"
+    "msedge-tts": "^2.0.8"
   },
   "author": "リハビリ企画合同会社",
   "license": "UNLICENSED"
